@@ -1,5 +1,8 @@
 # Reporte de practicas - U3
 ----------------------------------------------------------
+
+Dentro de la carpeta U3_Optimización se encuentran todas las prácticas de optimización para esta unidad.
+
 ## Práctica optimización local
 
 ![image](https://user-images.githubusercontent.com/82748051/201933032-e0e1c6ef-2cf7-47ec-9dac-8a5d0dde30cb.png)
