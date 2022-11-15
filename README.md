@@ -1,9 +1,22 @@
-# Reporte de practicas - U2
+# Reporte de practicas - U3
 ----------------------------------------------------------
-## Practica Infija a Prefija
+## Práctica optimización local
 
-![image](https://user-images.githubusercontent.com/82748051/198167969-f309f123-8244-497a-aaf7-364e932bbcc9.png)
+![image](https://user-images.githubusercontent.com/82748051/201933032-e0e1c6ef-2cf7-47ec-9dac-8a5d0dde30cb.png)
 
-## Practica Infija a Postfija
+## Práctica optimización por ciclos
 
-![image](https://user-images.githubusercontent.com/82748051/198168021-37e05d7f-a6a8-4a31-b696-d2e50584541c.png)
+![image](https://user-images.githubusercontent.com/82748051/201933118-88b6652d-5a86-41c9-993c-a534d0e196ff.png)
+
+## Práctica optimización global
+
+![image](https://user-images.githubusercontent.com/82748051/201933153-69ef937f-d615-45a4-969a-402febc6103e.png)
+
+## Práctica optimización de mirilla
+
+![image](https://user-images.githubusercontent.com/82748051/201933180-a1aea8d0-53af-419a-9936-b646c085b9ab.png)
+
+## Práctica optimización a programa cajero automático
+
+![image](https://user-images.githubusercontent.com/82748051/201932749-e822ad52-9bf9-4d94-86f2-8a37a5b220db.png)
+
